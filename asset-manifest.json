@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dowellClassification/static/css/main.a2d5314a.css",
+    "main.js": "/dowellClassification/static/js/main.4a684a6a.js",
+    "static/js/787.cecb67f1.chunk.js": "/dowellClassification/static/js/787.cecb67f1.chunk.js",
+    "index.html": "/dowellClassification/index.html",
+    "main.a2d5314a.css.map": "/dowellClassification/static/css/main.a2d5314a.css.map",
+    "main.4a684a6a.js.map": "/dowellClassification/static/js/main.4a684a6a.js.map",
+    "787.cecb67f1.chunk.js.map": "/dowellClassification/static/js/787.cecb67f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2d5314a.css",
+    "static/js/main.4a684a6a.js"
+  ]
+}
